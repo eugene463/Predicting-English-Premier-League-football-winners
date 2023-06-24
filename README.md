@@ -1,4 +1,4 @@
-# # Project Overview
+## Project Overview
  This project predicts the winner of football matches in the English Premier League (EPL).
 
 # Project Steps
@@ -8,11 +8,11 @@
 -  Make predictions about who will win a match using scikit-learn.
 -  Measure error and improve our predictions.
 
-# # Local Setup
+## Local Setup
 
-Installation 
+-  Installation 
 
-# To follow this project, please install the following locally:
+-  To follow this project, please install the following locally:
 
 -  JupyerLab
 -  Python 3.8+ 
