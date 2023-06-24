@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # Project Overview
 
 # This project predicts the winner of football matches in the English Premier League (EPL).
