@@ -10,14 +10,14 @@
 
 # # Local Setup
 
-#Installation 
+Installation 
 
 # To follow this project, please install the following locally:
 
-# -  JupyerLab
-# -  Python 3.8+ 
-# -  Python packages(pandas,requests,BeautifulSoup,scikit-learn)
+-  JupyerLab
+-  Python 3.8+ 
+-  Python packages(pandas,requests,BeautifulSoup,scikit-learn)
 
 # # Data
 
-# I scraped FBref to get our data in the first part of this project ( web scraping.ipynb).
+I scraped FBref to get our data in the first part of this project ( web scraping.ipynb).
