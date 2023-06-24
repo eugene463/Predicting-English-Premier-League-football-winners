@@ -1,4 +1,5 @@
 ## Project Overview
+ 
  This project predicts the winner of football matches in the English Premier League (EPL).
 
 # Project Steps
@@ -18,6 +19,6 @@
 -  Python 3.8+ 
 -  Python packages(pandas,requests,BeautifulSoup,scikit-learn)
 
-# # Data
+## Data
 
 I scraped FBref to get our data in the first part of this project ( web scraping.ipynb).
